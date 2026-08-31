@@ -1,190 +1,195 @@
 <div align="center">
+
 <h1> MARLLON LORRAN </h1>
 
-☕ Java Backend Developer
+### 🛡️ Cybersecurity Student
 
-Java · Spring Boot · REST APIs · PostgreSQL · Docker · Software Engineering
+**Linux · Networking · Web Security · Python · Security Engineering**
 
 <br>
+
 <a href="https://github.com/marllonlrn">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/marllonlrn/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </div>
 
-⸻
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a Software Engineering student at UNIPÊ focused on Backend Development with Java.
+I'm a **Software Engineering student at UNIPÊ** with a strong interest in **Cybersecurity**.
 
-Currently, I’m building a strong foundation in Java, Spring Boot, REST APIs, databases, software architecture, testing, and containerization through hands-on projects, labs, and continuous practice.
+Currently, I'm building my foundation in **Linux, networking, web security, Python, and secure software development** through hands-on learning, labs, projects, and continuous practice.
 
-My goal is to become a strong Backend Engineer, capable of designing, developing, testing, and maintaining scalable and reliable applications.
+My long-term goal is to specialize in **Offensive Security, Penetration Testing, and Red Team operations**.
 
-I believe that becoming a good backend developer starts with understanding programming fundamentals, databases, APIs, architecture, clean code, and how software systems work together.
+I believe that becoming a strong security professional starts with understanding how **systems, networks, applications, and software are built**.
 
-⸻
+---
 
-☕ Java & Backend
+## 🛡️ Cybersecurity
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="48" height="48" alt="Java" />
+  <img src="https://cdn.simpleicons.org/owasp/000000" width="48" height="48" alt="OWASP" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" width="48" height="48" alt="Spring" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" alt="Spring Boot" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="48" height="48" alt="Maven" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" alt="Burp Suite" />
 </p>
 
-Backend technologies
+**Security interests**
 
-Java · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · Maven · REST APIs
+`Web Security` · `Network Security` · `OWASP` · `Security Testing` · `CTFs` · `Defensive Security`
 
-⸻
+---
 
-🗄️ Databases & Persistence
+## 🐧 Linux & Systems
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" width="48" height="48" alt="Fedora" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" width="48" height="48" alt="Hibernate" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Bash" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" />
 </p>
 
-Focus
+**Focus**
 
-PostgreSQL · MySQL · SQL · JPA · Hibernate · Database Modeling · Transactions
+`Linux Administration` · `Bash` · `CLI` · `System Security` · `Containers`
 
-⸻
+---
 
-🧪 Testing & Development
+## 🐍 Development
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" alt="JUnit 5" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" />
 </p>
 
-Focus
+**Focus**
 
-JUnit · Mockito · Unit Testing · Integration Testing · Git · GitHub · Postman
+`Python` · `Secure Coding` · `Automation` · `Git` · `Software Engineering`
 
-⸻
+---
 
-🐳 DevOps & Tools
+## 🌐 Networking
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="48" height="48" alt="GitLab" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" width="48" height="48" alt="IntelliJ IDEA" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" alt="Cloudflare" />
 </p>
 
-Focus
+**Focus**
 
-Docker · Linux · CI/CD · IntelliJ IDEA · Git · GitHub · Containerization
+`TCP/IP` · `DNS` · `HTTP/HTTPS` · `Network Security` · `Network Analysis`
 
-⸻
+---
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-Backend Development
+### Defensive Security
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🌐 REST APIs
-* 🗄️ PostgreSQL
-* 🔗 JPA & Hibernate
+* 🛡️ Security fundamentals
+* 🔎 Security monitoring
+* 🌐 Network security
+* 🐧 Linux security
+* 🧪 Security labs
 
 </td>
 <td width="50%">
 
-Software Engineering
+### Development
 
-* 🧼 Clean Code
-* 🏗️ Software Architecture
-* 🧪 Automated Testing
-* 🐳 Docker
-* 🔄 Git & CI/CD
+* 🐍 Python
+* 🔐 Secure development
+* 🌐 Web security
+* ⚙️ Automation
+* 💻 Software engineering
 
 </td>
 </tr>
 </table>
 
-⸻
+---
 
-🚀 My Roadmap
+## 🚀 My Roadmap
 
-Programming Fundamentals
+```text
+Software Engineering
         │
         ▼
-Java & Object-Oriented Programming
+Cybersecurity Fundamentals
         │
         ▼
-SQL + Database Modeling
+Linux + Networking
         │
         ▼
-Spring Boot
+Web & Application Security
         │
         ▼
-REST APIs & Backend Architecture
+Defensive Security
         │
         ▼
-Testing & Clean Code
+Offensive Security
         │
         ▼
-Docker + CI/CD
-        │
-        ▼
-Scalable Backend Systems
+Red Team / Penetration Testing
+```
 
-⸻
+---
 
-📚 Currently Learning
+## 📚 Currently Learning
 
-Area	Focus
-- ☕ Java	OOP, Collections, Streams & JVM
-- 🌱 Spring Boot	REST APIs & application development
-- 🗄️ Databases	SQL, PostgreSQL & data modeling
-- 🔗 Persistence	JPA, Hibernate & transactions
-- 🌐 Backend	REST, HTTP & API architecture
-- 🧪 Testing	JUnit, Mockito & integration testing
-- 🐳 DevOps	Docker, CI/CD & development workflows
-- 💻 Software Engineering	Clean Code & software architecture
+| Area                  | Focus                                 |
+| --------------------- | ------------------------------------- |
+| 🛡️ Cybersecurity     | Security fundamentals & methodologies |
+| 🐧 Linux              | Administration & system security      |
+| 🌐 Networking         | TCP/IP, DNS, HTTP & network analysis  |
+| 🔐 Web Security       | OWASP & application security          |
+| 🐍 Python             | Automation & security tooling         |
+| 💻 Development        | Secure coding & software engineering  |
+| 🧪 Practical Security | Labs, CTFs & hands-on practice        |
 
-⸻
+---
 
-🌐 Connect
+## 🌐 Connect
 
 <div align="center">
+
 <a href="https://github.com/marllonlrn">
   <img src="https://img.shields.io/badge/GitHub-marllonlrn-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/marllonlrn/">
   <img src="https://img.shields.io/badge/LinkedIn-Marllon%20Lorran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </div>
+
 <br>
+
 <div align="center">
 
-☕ Build. Test. Scale.
+### 🛡️ Learn. Build. Secure.
 
-Java · Spring Boot · Backend Development · Databases · Software Engineering
+<sub>Cybersecurity · Software Engineering · Linux · Networking</sub>
 
 </div>
