@@ -1,9 +1,9 @@
 <div align="center">
 <h1> MARLLON LORRAN </h1>
 
-☕ Desenvolvedor Backend Java em formação
+☕ Aspiring Java Backend Developer
 
-Java · Spring Boot · APIs REST · SQL · PostgreSQL · Docker
+Java · Spring Boot · REST APIs · SQL · PostgreSQL · Docker
 
 <br>
 <a href="https://github.com/marllonlrn">
@@ -14,19 +14,19 @@ Java · Spring Boot · APIs REST · SQL · PostgreSQL · Docker
 </a>
 </div>
 
-___
+⸻
 
-👨‍💻 Sobre Mim
+👨‍💻 About Me
 
-Sou estudante de Engenharia de Software no UNIPÊ, com forte interesse em desenvolvimento backend, especialmente utilizando Java e Spring Boot.
+I am a Software Engineering student at UNIPÊ with a strong interest in backend development, especially using Java and Spring Boot.
 
-Atualmente, estou construindo uma base sólida em Java, Programação Orientada a Objetos, Spring Boot, APIs REST, SQL, bancos de dados, Git, Linux e Docker, através de estudos práticos, projetos e aprendizado contínuo.
+Currently, I am building a solid foundation in Java, Object-Oriented Programming, Spring Boot, REST APIs, SQL, databases, Git, Linux, and Docker through hands-on learning, projects, and continuous study.
 
-Meu objetivo é me tornar um desenvolvedor backend altamente qualificado, capaz de desenvolver aplicações robustas, escaláveis, seguras e bem estruturadas.
+My goal is to become a highly skilled backend developer capable of building robust, scalable, secure, and well-structured applications.
 
-Acredito que ser um bom desenvolvedor vai muito além de escrever código. Busco constantemente aprimorar minhas habilidades de resolução de problemas, lógica de programação, estruturas de dados, arquitetura de software e boas práticas de desenvolvimento.
+I believe that being a good developer goes far beyond writing code. I continuously work on improving my problem-solving skills, programming logic, data structures, software architecture knowledge, and development best practices.
 
-___
+⸻
 
 ☕ Java & Backend
 
@@ -34,49 +34,49 @@ ___
   <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
 </p>
 
-Foco
+Focus
 
-Java · Spring Boot · Spring Framework · APIs REST · Programação Orientada a Objetos · Maven
+Java · Spring Boot · Spring Framework · REST APIs · Object-Oriented Programming · Maven
 
-___
+⸻
 
-🗄️ Banco de Dados
+🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 </p>
 
-Foco
+Focus
 
-SQL · PostgreSQL · MySQL · JPA · Hibernate · Modelagem de Dados
+SQL · PostgreSQL · MySQL · JPA · Hibernate · Data Modeling
 
-___
+⸻
 
-🛠️ Desenvolvimento & Ferramentas
+🛠️ Development & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark" />
 </p>
 
-Foco
+Focus
 
-Git · GitHub · Linux · Docker · Clean Code · Boas Práticas
+Git · GitHub · Linux · Docker · Clean Code · Best Practices
 
-___
+⸻
 
-🌐 APIs & Arquitetura
+🌐 APIs & Architecture
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
 </p>
 
-Foco
+Focus
 
-APIs REST · HTTP · JSON · OpenAPI · JWT · Autenticação · Arquitetura de Software
+REST APIs · HTTP · JSON · OpenAPI · JWT · Authentication · Software Architecture
 
-___
+⸻
 
-🎯 Foco Atual
+🎯 Current Focus
 
 <table>
 <tr>
@@ -86,44 +86,45 @@ Backend
 
 * Java
 * Spring Boot
-* APIs REST
+* REST APIs
 * PostgreSQL
 * JPA / Hibernate
 
 </td>
 <td width="50%">
 
-Engenharia
+Software Engineering
 
-* Programação Orientada a Objetos
-* Estruturas de Dados
+* Object-Oriented Programming
+* Data Structures
 * Clean Code
-* Testes Automatizados
+* Automated Testing
 * Docker
 
 </td>
 </tr>
 </table>
 
-___
+⸻
 
-📚 Atualmente Aprendendo
+📚 Currently Learning
 
-Área	Em desenvolvimento:
-- ☕ Java	POO, Collections, Exceptions, Streams e boas práticas
-- 🌱 Spring Boot	APIs REST, Injeção de Dependências, Spring MVC e configuração
-- 🗄️ Banco de Dados	SQL, PostgreSQL, relacionamentos, índices e modelagem
-- 🔗 Persistência	JPA, Hibernate, entidades e relacionamentos
-- 🧪 Testes	JUnit, Mockito e testes de APIs
-- 🔐 Segurança	Autenticação, autorização, JWT e fundamentos de segurança
-- 🐳 Docker	Containers, imagens e ambientes de desenvolvimento
-- 🌐 APIs	REST, HTTP, JSON, validação e documentação com OpenAPI
-- 🧱 Arquitetura	Clean Code, SOLID, Design Patterns e organização de projetos
-- 🔧 Versionamento	Git, GitHub, branches, commits e fluxo de desenvolvimento
+Area | In Progress
 
-___
+* ☕ Java — OOP, Collections, Exceptions, Streams, and best practices
+* 🌱 Spring Boot — REST APIs, Dependency Injection, Spring MVC, and configuration
+* 🗄️ Databases — SQL, PostgreSQL, relationships, indexes, and data modeling
+* 🔗 Persistence — JPA, Hibernate, entities, and relationships
+* 🧪 Testing — JUnit, Mockito, and API testing
+* 🔐 Security — Authentication, authorization, JWT, and security fundamentals
+* 🐳 Docker — Containers, images, and development environments
+* 🌐 APIs — REST, HTTP, JSON, validation, and OpenAPI documentation
+* 🧱 Architecture — Clean Code, SOLID, Design Patterns, and project organization
+* 🔧 Version Control — Git, GitHub, branches, commits, and development workflows
 
-🌐 Conecte-se
+⸻
+
+🌐 Connect With Me
 
 <div align="center">
 <a href="https://github.com/marllonlrn">
@@ -136,8 +137,8 @@ ___
 <br>
 <div align="center">
 
-☕ Aprender. Construir. Evoluir.
+☕ Learn. Build. Evolve.
 
-Java · Backend · Spring Boot · Engenharia de Software
+Java · Backend · Spring Boot · Software Engineering
 
 </div>
