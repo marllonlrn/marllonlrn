@@ -33,6 +33,17 @@ Building strong backend foundations through consistent study and hands-on projec
 
 **Quality and tooling:** JUnit · Mockito · Docker · Postman · OpenAPI
 
+## 🚀 Featured project
+
+### [Java Learning Journey](https://github.com/marllonlrn/java-learning-journey)
+
+A practical record of my progress in Java, organized into four progressive lessons with runnable examples and challenges.
+
+- Fundamentals, control flow, methods, and arrays
+- Object-oriented programming
+- Collections, exceptions, lambdas, and Streams
+- A clear path toward Java backend development with Spring Boot
+
 ## 🎯 Current goals
 
 - Deepen my knowledge of Java, OOP, collections, exceptions, and streams
