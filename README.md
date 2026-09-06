@@ -1,144 +1,67 @@
 <div align="center">
-<h1> MARLLON LORRAN </h1>
 
-☕ Aspiring Java Backend Developer
+# Hi, I'm Marllon Lorran 👋
 
-Java · Spring Boot · REST APIs · SQL · PostgreSQL · Docker
+### Software Engineering Student · Focused on Java Backend Development
 
-<br>
-<a href="https://github.com/marllonlrn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/marllonlrn/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Building strong backend foundations through consistent study and hands-on projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marllon%20Lorran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marllonlrn/)
+[![GitHub](https://img.shields.io/badge/GitHub-marllonlrn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marllonlrn)
+
 </div>
 
-⸻
+---
 
-👨‍💻 About Me
+## 👨‍💻 About me
 
-I am a Software Engineering student at UNIPÊ with a strong interest in backend development, especially using Java and Spring Boot.
+- 🎓 Software Engineering student at **UNIPÊ**
+- ☕ Focused on backend development with **Java and Spring Boot**
+- 🧠 Strengthening my knowledge of OOP, data structures, databases, testing, and software architecture
+- 🐧 Using Linux, Git, and GitHub in my development workflow
+- 🚀 Working toward building robust, secure, and well-structured REST APIs
 
-Currently, I am building a solid foundation in Java, Object-Oriented Programming, Spring Boot, REST APIs, SQL, databases, Git, Linux, and Docker through hands-on learning, projects, and continuous study.
+## 🛠️ Technologies and tools
 
-My goal is to become a highly skilled backend developer capable of building robust, scalable, secure, and well-structured applications.
-
-I believe that being a good developer goes far beyond writing code. I continuously work on improving my problem-solving skills, programming logic, data structures, software architecture knowledge, and development best practices.
-
-⸻
-
-☕ Java & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,linux,docker,postman&theme=dark" alt="Java, Spring, Maven, PostgreSQL, MySQL, Git, GitHub, Linux, Docker, and Postman" />
 </p>
 
-Focus
+**Core foundations:** Java · Object-Oriented Programming · Git · GitHub · Linux
 
-Java · Spring Boot · Spring Framework · REST APIs · Object-Oriented Programming · Maven
+**Currently developing:** Spring Boot · REST APIs · Maven · SQL · PostgreSQL · JPA · Hibernate
 
-⸻
+**Quality and tooling:** JUnit · Mockito · Docker · Postman · OpenAPI
 
-🗄️ Databases
+## 🚀 Featured project
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-</p>
+### [Learning Java](https://github.com/marllonlrn/LearningJava)
 
-Focus
+A repository documenting my practical Java learning journey through exercises, notes, and small projects.
 
-SQL · PostgreSQL · MySQL · JPA · Hibernate · Data Modeling
+- Covers Java fundamentals, conditional statements, loops, user input, and introductory OOP
+- Includes clear instructions for compiling and running each lesson
+- Tracks progress toward collections, exceptions, testing, and REST APIs with Spring Boot
 
-⸻
+## 🎯 Current goals
 
-🛠️ Development & Tools
+- Deepen my knowledge of Java, OOP, collections, exceptions, and streams
+- Build REST APIs with Spring Boot
+- Work with relational databases using JPA and Hibernate
+- Write automated tests with JUnit and Mockito
+- Apply Clean Code, SOLID principles, and good project organization
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark" />
-</p>
+## 🤝 Connect with me
 
-Focus
+I am always open to learning, exchanging ideas, and connecting with other developers.
 
-Git · GitHub · Linux · Docker · Clean Code · Best Practices
+- [LinkedIn](https://www.linkedin.com/in/marllonlrn/)
+- [GitHub](https://github.com/marllonlrn)
 
-⸻
-
-🌐 APIs & Architecture
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-</p>
-
-Focus
-
-REST APIs · HTTP · JSON · OpenAPI · JWT · Authentication · Software Architecture
-
-⸻
-
-🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-Backend
-
-* Java
-* Spring Boot
-* REST APIs
-* PostgreSQL
-* JPA / Hibernate
-
-</td>
-<td width="50%">
-
-Software Engineering
-
-* Object-Oriented Programming
-* Data Structures
-* Clean Code
-* Automated Testing
-* Docker
-
-</td>
-</tr>
-</table>
-
-⸻
-
-📚 Currently Learning
-
-Area | In Progress
-
-* ☕ Java — OOP, Collections, Exceptions, Streams, and best practices
-* 🌱 Spring Boot — REST APIs, Dependency Injection, Spring MVC, and configuration
-* 🗄️ Databases — SQL, PostgreSQL, relationships, indexes, and data modeling
-* 🔗 Persistence — JPA, Hibernate, entities, and relationships
-* 🧪 Testing — JUnit, Mockito, and API testing
-* 🔐 Security — Authentication, authorization, JWT, and security fundamentals
-* 🐳 Docker — Containers, images, and development environments
-* 🌐 APIs — REST, HTTP, JSON, validation, and OpenAPI documentation
-* 🧱 Architecture — Clean Code, SOLID, Design Patterns, and project organization
-* 🔧 Version Control — Git, GitHub, branches, commits, and development workflows
-
-⸻
-
-🌐 Connect With Me
+---
 
 <div align="center">
-<a href="https://github.com/marllonlrn">
-  <img src="https://img.shields.io/badge/GitHub-marllonlrn-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/marllonlrn/">
-  <img src="https://img.shields.io/badge/LinkedIn-Marllon%20Lorran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</div>
-<br>
-<div align="center">
 
-☕ Learn. Build. Evolve.
-
-Java · Backend · Spring Boot · Software Engineering
+**Learn. Build. Evolve.** ☕
 
 </div>
