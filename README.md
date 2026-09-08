@@ -33,16 +33,18 @@ Construindo uma base sólida em backend por meio de estudo consistente e projeto
 
 **Qualidade e ferramentas:** JUnit · Mockito · Docker · Postman · OpenAPI
 
-## 🚀 Projeto em destaque
+## 🚧 Projetos em andamento
 
-### [Jornada de Aprendizado em Java](https://github.com/marllonlrn/java-learning-journey)
+Atualmente, estou desenvolvendo projetos backend para consolidar conhecimentos e aplicar boas práticas de engenharia de software, com foco em:
 
-Um registro prático da minha evolução em Java, organizado em quatro aulas progressivas com exemplos executáveis e desafios.
+- Desenvolvimento de APIs REST com Java e Spring Boot
+- Modelagem e persistência de dados com PostgreSQL, JPA e Hibernate
+- Implementação de validações, tratamento de exceções e regras de negócio
+- Criação de testes automatizados com JUnit e Mockito
+- Conteinerização de aplicações com Docker
+- Aplicação de Clean Code, princípios SOLID e arquitetura em camadas
 
-- Fundamentos, estruturas de controle, métodos e arrays
-- Programação orientada a objetos
-- Coleções, exceções, expressões lambda e Streams
-- Um caminho claro para o desenvolvimento backend com Java e Spring Boot
+Os projetos serão publicados conforme atingirem versões estáveis, documentadas e adequadas para apresentação.
 
 ## 🎯 Objetivos atuais
 
