@@ -1,10 +1,10 @@
-<div align="center">
+<div al<div align="center">
 
-# Hi, I'm Marllon Lorran 👋
+# Oi, eu sou Marllon Lorran 👋
 
-### Software Engineering Student · Focused on Backend Development with Java
+### Estudante de Engenharia de Software · Focado em Desenvolvimento Backend com Java
 
-Building a solid foundation in backend development through continuous learning and hands-on projects.
+Construindo uma base sólida em desenvolvimento backend por meio de aprendizado contínuo e projetos práticos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marllon%20Lorran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marllonlrn/)
 [![GitHub](https://img.shields.io/badge/GitHub-marllonlrn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marllonlrn)
@@ -13,50 +13,50 @@ Building a solid foundation in backend development through continuous learning a
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-- 🎓 Studying **Software Engineering** at **UNIPÊ**
-- ☕ Focused on backend development with **Java and Spring Boot**
-- 🧠 Expanding my knowledge of object-oriented programming, data structures, databases, testing, and software architecture
-- 🐧 Using Linux, Git, and GitHub in my development workflow
-- 🚀 Working toward building robust, secure, and well-structured REST APIs
+- 🎓 Estudando **Engenharia de Software** na **UNIPÊ**
+- ☕ Focado em desenvolvimento backend com **Java e Spring Boot**
+- 🧠 Expandindo meus conhecimentos em programação orientada a objetos, estruturas de dados, bancos de dados, testes e arquitetura de software
+- 🐧 Utilizando Linux, Git e GitHub no meu fluxo de desenvolvimento
+- 🚀 Trabalhando para construir APIs REST robustas, seguras e bem estruturadas
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tecnologias e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,linux,docker,postman&theme=dark" alt="Java, Spring, Maven, PostgreSQL, MySQL, Git, GitHub, Linux, Docker, and Postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,linux,docker,postman&theme=dark" alt="Java, Spring, Maven, PostgreSQL, MySQL, Git, GitHub, Linux, Docker e Postman" />
 </p>
 
-**Core Skills:** Java · Object-Oriented Programming · Git · GitHub · Linux
+**Habilidades Principais:** Java · Programação Orientada a Objetos · Git · GitHub · Linux
 
-**Currently Learning:** Spring Boot · REST APIs · Maven · SQL · PostgreSQL · JPA · Hibernate
+**Atualmente Aprendendo:** Spring Boot · APIs REST · Maven · SQL · PostgreSQL · JPA · Hibernate
 
-**Testing and Development Tools:** JUnit · Mockito · Docker · Postman · OpenAPI
+**Ferramentas de Testes e Desenvolvimento:** JUnit · Mockito · Docker · Postman · OpenAPI
 
-## 🚧 Projects in Progress
+## 🚧 Projetos em Andamento
 
-I am currently developing backend projects to strengthen my skills and apply software engineering best practices, with a focus on:
+Atualmente, estou desenvolvendo projetos backend para fortalecer minhas habilidades e aplicar boas práticas de engenharia de software, com foco em:
 
-- Building REST APIs with Java and Spring Boot
-- Modeling and persisting data with PostgreSQL, JPA, and Hibernate
-- Implementing validation, exception handling, and business logic
-- Writing automated tests with JUnit and Mockito
-- Containerizing applications with Docker
-- Applying clean code practices, SOLID principles, and layered architecture
+- Construção de APIs REST com Java e Spring Boot
+- Modelagem e persistência de dados com PostgreSQL, JPA e Hibernate
+- Implementação de validação, tratamento de exceções e regras de negócio
+- Escrita de testes automatizados com JUnit e Mockito
+- Conteinerização de aplicações com Docker
+- Aplicação de boas práticas de código limpo, princípios SOLID e arquitetura em camadas
 
-Projects will be published once they reach stable, well-documented versions that are ready to showcase.
+Os projetos serão publicados quando chegarem a versões estáveis, bem documentadas e prontas para serem apresentadas.
 
-## 🎯 Current Goals
+## 🎯 Objetivos Atuais
 
-- Deepen my understanding of Java, object-oriented programming, collections, exceptions, and the Stream API
-- Develop REST APIs with Spring Boot
-- Work with relational databases using JPA and Hibernate
-- Write automated tests with JUnit and Mockito
-- Apply clean code practices, SOLID principles, and best practices for project organization
+- Aprofundar meu entendimento de Java, programação orientada a objetos, collections, exceções e Stream API
+- Desenvolver APIs REST com Spring Boot
+- Trabalhar com bancos de dados relacionais usando JPA e Hibernate
+- Escrever testes automatizados com JUnit e Mockito
+- Aplicar boas práticas de código limpo, princípios SOLID e organização de projetos
 
-## 🤝 Get in Touch
+## 🤝 Entre em Contato
 
-I am always open to learning, exchanging ideas, and connecting with other developers.
+Estou sempre aberto a aprender, trocar ideias e me conectar com outros desenvolvedores.
 
 - [LinkedIn](https://www.linkedin.com/in/marllonlrn/)
 - [GitHub](https://github.com/marllonlrn)
@@ -65,6 +65,6 @@ I am always open to learning, exchanging ideas, and connecting with other develo
 
 <div align="center">
 
-**Learn. Build. Grow.** ☕
+**Aprender. Construir. Evoluir.** ☕
 
 </div>
