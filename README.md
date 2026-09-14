@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Marllon Lorran
+# 👋 Olá, sou Marllon Lorran
 
-### 🎓 Software Engineering Student · 💻 Focused on Java Backend Development
+### 🎓 Estudante de Engenharia de Software · 💻 Focado em Desenvolvimento Backend com Java
 
-Building a strong foundation in backend development through continuous learning and hands-on projects.
+Construindo uma base sólida em desenvolvimento backend por meio de aprendizado contínuo e projetos práticos.
 
 <br>
 
@@ -20,17 +20,17 @@ Building a strong foundation in backend development through continuous learning 
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-- 🎓 Software Engineering student at **UNIPÊ**
-- ☕ Focused on backend development with **Java and Spring Boot**
-- 🧠 Expanding my knowledge of **object-oriented programming, data structures, databases, testing, and software architecture**
-- 🐧 Using **Linux, Git, and GitHub** in my development workflow
-- 🚀 Working toward building **robust, secure, and well-structured REST APIs**
+- 🎓 Estudante de Engenharia de Software no **UNIPÊ**
+- ☕ Focado em desenvolvimento backend com **Java e Spring Boot**
+- 🧠 Ampliando meus conhecimentos em **programação orientada a objetos, estruturas de dados, bancos de dados, testes e arquitetura de software**
+- 🐧 Utilizando **Linux, Git e GitHub** no meu fluxo de desenvolvimento
+- 🚀 Trabalhando para construir **APIs REST robustas, seguras e bem estruturadas**
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
 
@@ -38,64 +38,64 @@ Building a strong foundation in backend development through continuous learning 
 
 </div>
 
-### 💡 Current Skills
+### 💡 Habilidades Atuais
 
-**Java** · **Object-Oriented Programming** · **Git** · **GitHub** · **Linux**
+**Java** · **Programação Orientada a Objetos** · **Git** · **GitHub** · **Linux**
 
-### 📚 Currently Learning
+### 📚 O Que Estou Aprendendo
 
-**Spring Boot** · **REST APIs** · **Maven** · **SQL** · **PostgreSQL** · **JPA** · **Hibernate**
+**Spring Boot** · **APIs REST** · **Maven** · **SQL** · **PostgreSQL** · **JPA** · **Hibernate**
 
-### 🧪 Testing and Development Tools
+### 🧪 Ferramentas de Testes e Desenvolvimento
 
 **JUnit** · **Mockito** · **Docker** · **Postman** · **OpenAPI**
 
 ---
 
-## 🚧 Projects in Progress
+## 🚧 Projetos em Desenvolvimento
 
-I am currently developing backend projects to strengthen my skills and apply software engineering best practices.
+Estou desenvolvendo projetos backend para fortalecer minhas habilidades e aplicar boas práticas de engenharia de software.
 
-### 🎯 Project Focus
+### 🎯 Foco dos Projetos
 
-- 🔹 Building **REST APIs** with Java and Spring Boot
-- 🔹 Data modeling and persistence with **PostgreSQL, JPA, and Hibernate**
-- 🔹 Implementing **validation, exception handling, and business rules**
-- 🔹 Writing **automated tests** with JUnit and Mockito
-- 🔹 Containerizing applications with **Docker**
-- 🔹 Applying **clean code, SOLID principles, and layered architecture**
+- 🔹 Construção de **APIs REST** com Java e Spring Boot
+- 🔹 Modelagem e persistência de dados com **PostgreSQL, JPA e Hibernate**
+- 🔹 Implementação de **validações, tratamento de exceções e regras de negócio**
+- 🔹 Escrita de **testes automatizados** com JUnit e Mockito
+- 🔹 Conteinerização de aplicações com **Docker**
+- 🔹 Aplicação de **código limpo, princípios SOLID e arquitetura em camadas**
 
-> 📌 Projects will be published once they reach stable, well-documented, and presentation-ready versions.
-
----
-
-## 🎯 Current Goals
-
-- 📌 Deepen my knowledge of **Java**
-- 📌 Strengthen my understanding of **object-oriented programming**
-- 📌 Build **REST APIs with Spring Boot**
-- 📌 Work with relational databases using **JPA and Hibernate**
-- 📌 Learn and apply **automated testing**
-- 📌 Develop projects following **software engineering best practices**
+> 📌 Os projetos serão publicados quando alcançarem versões estáveis, bem documentadas e prontas para apresentação.
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Objetivos Atuais
 
-I am always open to learning, exchanging ideas, and connecting with other people in the technology community.
+- 📌 Aprofundar meus conhecimentos em **Java**
+- 📌 Fortalecer minha compreensão de **programação orientada a objetos**
+- 📌 Construir **APIs REST com Spring Boot**
+- 📌 Trabalhar com bancos de dados relacionais utilizando **JPA e Hibernate**
+- 📌 Aprender e aplicar **testes automatizados**
+- 📌 Desenvolver projetos seguindo **boas práticas de engenharia de software**
+
+---
+
+## 🤝 Vamos nos Conectar
+
+Estou sempre aberto a aprender, trocar ideias e me conectar com outras pessoas da comunidade de tecnologia.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marllonlrn/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte%20se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn">
 </a>
 
 <a href="https://github.com/marllonlrn">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Siga%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Siga-me no GitHub">
 </a>
 
 <br><br>
 
-### ☕ Learn · Build · Evolve
+### ☕ Aprender · Construir · Evoluir
 
 </div>
