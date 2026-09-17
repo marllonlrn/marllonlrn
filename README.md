@@ -5,16 +5,7 @@
 ### 🎓 Estudante de Engenharia de Software · 💻 Focado em Desenvolvimento Backend com Java
 
 Construindo uma base sólida em desenvolvimento backend por meio de aprendizado contínuo e projetos práticos.
-
 <br>
-
-<a href="https://www.linkedin.com/in/marllonlrn/">
-  <img src="https://img.shields.io/badge/LinkedIn-Marllon%20Lorran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/marllonlrn">
-  <img src="https://img.shields.io/badge/GitHub-marllonlrn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
 
 </div>
 
