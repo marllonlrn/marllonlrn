@@ -43,23 +43,6 @@ Building a solid foundation in backend development through continuous learning a
 
 ---
 
-## 🚧 Projects in Development
-
-I'm developing backend projects to strengthen my skills and apply software engineering best practices.
-
-### 🎯 Project Focus
-
-- 🔹 Building **REST APIs** with Java and Spring Boot
-- 🔹 Data modeling and persistence with **PostgreSQL, JPA, and Hibernate**
-- 🔹 Implementing **validation, exception handling, and business rules**
-- 🔹 Writing **automated tests** with JUnit and Mockito
-- 🔹 Containerizing applications with **Docker**
-- 🔹 Applying **clean code practices, SOLID principles, and layered architecture**
-
-> 📌 Projects will be published once they reach stable, well-documented releases that are ready to showcase.
-
----
-
 ## 🎯 Current Goals
 
 - 📌 Deepen my knowledge of **Java**
