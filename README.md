@@ -1,27 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm Marllon Lorran
+# 👋 Olá, sou Marllon Lorran
 
-### 🎓 Software Engineering Student · 💻 Focused on Backend Development with Java
+### 🎓 Estudante de Engenharia de Software · 💻 Foco em Desenvolvimento Backend com Java
 
-Building a solid foundation in backend development through continuous learning and hands-on projects.
+Construindo uma base sólida em desenvolvimento backend por meio do aprendizado contínuo e de projetos práticos.
 <br>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-- 🎓 Software Engineering student at **UNIPÊ**
-- ☕ Focused on backend development with **Java and Spring Boot**
-- 🧠 Expanding my knowledge of **object-oriented programming, data structures, databases, testing, and software architecture**
-- 🐧 Using **Linux, Git, and GitHub** in my development workflow
-- 🚀 Working toward building **robust, secure, and well-structured REST APIs**
+- 🎓 Estudante de Engenharia de Software no **UNIPÊ**
+- ☕ Focado em desenvolvimento backend com **Java e Spring Boot**
+- 🧠 Ampliando meus conhecimentos em **programação orientada a objetos, estruturas de dados, bancos de dados, testes e arquitetura de software**
+- 🐧 Utilizando **Linux, Git e GitHub** na minha rotina de desenvolvimento
+- 🚀 Aprendendo a construir **APIs REST robustas, seguras e bem estruturadas**
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tecnologias e ferramentas
 
 <div align="left">
 
@@ -29,47 +29,47 @@ Building a solid foundation in backend development through continuous learning a
 
 </div>
 
-### 💡 Current Skills
+### 💡 Conhecimentos atuais
 
-**Java** · **Object-Oriented Programming** · **Git** · **GitHub** · **Linux**
+**Java** · **Programação Orientada a Objetos** · **Git** · **GitHub** · **Linux**
 
-### 📚 What I'm Learning
+### 📚 O que estou aprendendo
 
-**Spring Boot** · **REST APIs** · **Maven** · **SQL** · **PostgreSQL** · **JPA** · **Hibernate**
+**Spring Boot** · **APIs REST** · **Maven** · **SQL** · **PostgreSQL** · **JPA** · **Hibernate**
 
-### 🧪 Testing and Development Tools
+### 🧪 Testes e ferramentas de desenvolvimento
 
 **JUnit** · **Mockito** · **Docker** · **Postman** · **OpenAPI**
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Objetivos atuais
 
-- 📌 Deepen my knowledge of **Java**
-- 📌 Strengthen my understanding of **object-oriented programming**
-- 📌 Build **REST APIs with Spring Boot**
-- 📌 Work with relational databases using **JPA and Hibernate**
-- 📌 Learn and apply **automated testing**
-- 📌 Develop projects following **software engineering best practices**
+- 📌 Aprofundar meus conhecimentos em **Java**
+- 📌 Fortalecer minha compreensão de **programação orientada a objetos**
+- 📌 Construir **APIs REST com Spring Boot**
+- 📌 Trabalhar com bancos de dados relacionais utilizando **JPA e Hibernate**
+- 📌 Aprender e aplicar **testes automatizados**
+- 📌 Desenvolver projetos seguindo **boas práticas de engenharia de software**
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Vamos nos conectar!
 
-I'm always open to learning, exchanging ideas, and connecting with others in the tech community.
+Estou sempre aberto a aprender, trocar ideias e me conectar com outras pessoas da comunidade de tecnologia.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marllonlrn/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte%20se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn">
 </a>
 
 <a href="https://github.com/marllonlrn">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Siga%20meu%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Siga meu perfil no GitHub">
 </a>
 
 <br><br>
 
-### ☕ Learn · Build · Grow
+### ☕ Aprender · Desenvolver · Evoluir
 
 </div>
