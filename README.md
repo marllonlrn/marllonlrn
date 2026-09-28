@@ -1,75 +1,75 @@
 <div align="center">
 
-# 👋 Hi, I'm Marllon Lorran
+# 👋 Olá, sou Marllon Lorran
 
-### 🎓 Software Engineering Student · 💻 Focused on Java Backend Development
+### 🎓 Estudante de Engenharia de Software · 💻 Focado em desenvolvimento backend com Java
 
-Building a strong foundation in backend development through continuous learning and hands-on projects.
+Estou construindo uma base sólida em desenvolvimento backend por meio de estudos contínuos e projetos práticos.
 <br>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-- 🎓 Software Engineering student at **UNIPÊ**
-- ☕ Focused on backend development with **Java and Spring Boot**
-- 🧠 Expanding my knowledge of **object-oriented programming, data structures, databases, testing, and software architecture**
-- 🐧 Using **Linux, Git, and GitHub** in my development workflow
-- 🚀 Learning to build **robust, secure, and well-structured REST APIs**
+- 🎓 Estudante de Engenharia de Software no **UNIPÊ**
+- ☕ Focado em desenvolvimento backend com **Java e Spring Boot**
+- 🧠 Aprofundando meus conhecimentos em **programação orientada a objetos, estruturas de dados, bancos de dados, testes e arquitetura de software**
+- 🐧 Utilizo **Linux, Git e GitHub** no meu fluxo de desenvolvimento
+- 🚀 Aprendendo a desenvolver **APIs REST robustas, seguras e bem estruturadas**
 
 ---
 
-## 🛠️ Technologies and tools
+## 🛠️ Tecnologias e ferramentas
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,linux,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,linux,docker,postman&theme=dark" alt="Java, Spring, Maven, PostgreSQL, MySQL, Git, GitHub, Linux, Docker e Postman" />
 
 </div>
 
-### 💡 Current skills
+### 💡 Conhecimentos atuais
 
-**Java** · **Object-Oriented Programming** · **Git** · **GitHub** · **Linux**
+**Java** · **Programação orientada a objetos** · **Git** · **GitHub** · **Linux**
 
-### 📚 What I'm learning
+### 📚 Em aprendizado
 
-**Spring Boot** · **REST APIs** · **Maven** · **SQL** · **PostgreSQL** · **JPA** · **Hibernate**
+**Spring Boot** · **APIs REST** · **Maven** · **SQL** · **PostgreSQL** · **JPA** · **Hibernate**
 
-### 🧪 Testing and development tools
+### 🧪 Ferramentas de teste e desenvolvimento
 
 **JUnit** · **Mockito** · **Docker** · **Postman** · **OpenAPI**
 
 ---
 
-## 🎯 Current goals
+## 🎯 Objetivos atuais
 
-- 📌 Deepen my knowledge of **Java**
-- 📌 Strengthen my understanding of **object-oriented programming**
-- 📌 Build **REST APIs with Spring Boot**
-- 📌 Work with relational databases using **JPA and Hibernate**
-- 📌 Learn and apply **automated testing**
-- 📌 Develop projects following **software engineering best practices**
+- 📌 Aprofundar meus conhecimentos em **Java**
+- 📌 Fortalecer minha compreensão de **programação orientada a objetos**
+- 📌 Desenvolver **APIs REST com Spring Boot**
+- 📌 Trabalhar com bancos de dados relacionais usando **JPA e Hibernate**
+- 📌 Aprender e aplicar **testes automatizados**
+- 📌 Desenvolver projetos seguindo **boas práticas de engenharia de software**
 
 ---
 
-## 🤝 Let's connect!
+## 🤝 Vamos nos conectar!
 
-I'm always open to learning, exchanging ideas, and connecting with others in the tech community.
+Estou sempre aberto a aprender, trocar ideias e conhecer pessoas da comunidade de tecnologia.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marllonlrn/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn">
 </a>
 
 <a href="https://github.com/marllonlrn">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my profile on GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Siga%20meu%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Siga meu perfil no GitHub">
 </a>
 
 <br><br>
 
-### ☕ Learn · Build · Grow
+### ☕ Aprender · Construir · Evoluir
 
 </div>
